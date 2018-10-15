@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fence Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="boo">Boo</string>
+    <string name="button">Button</string>
+    <string name="back3">&lt;&lt;&lt;</string>
+
+</resources>
